@@ -1,0 +1,19 @@
+* {
+	border: 1px solid black;
+}
+
+body {
+	margin : 0px;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	display: flex;
+}
+
+section {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 25px;
+}
